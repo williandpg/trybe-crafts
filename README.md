@@ -1,16 +1,19 @@
-# **Trybe Crafts**
+<h1><strong>Trybe Crafts</strong></h1>
 
-## **Descrição**
+<h2><strong>Descrição</strong></h2>
 <p align="justify">
   Nesse exercício, desenvolvemos uma parte do sistema da empresa fictícia Trybe Crafts, que atua no mercado de produtos personalizados. O objetivo foi criar funções para aumentar as vendas de seu e-commerce, aplicando tipagens estáticas para prevenir bugs e facilitar a manutenção futura. O exercício foi dividido em 5 etapas, cada uma com sua função específica e tipagens bem definidas.
 </p>
 
-## **Tecnologias Utilizadas**
+<h2><strong>Tecnologias Utilizadas</strong></h2>
+<ul>
+  <li><a><strong></strong></li>
 - [**TypeScript**](https://www.typescriptlang.org/): Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.
 - [**Node.js**](https://nodejs.org/): Ambiente para executar scripts e testes do projeto no backend.
 - [**ESLint**](https://eslint.org/): Analisa o código para manter a qualidade e prevenir problemas de formatação.
+</ul>
 
-## **Estrutura do Projeto**
+<h2><strong>Estrutura do Projeto</strong></h2>
 A estrutura do projeto é organizada da seguinte forma:
 
 ```plaintext
@@ -39,18 +42,18 @@ A estrutura do projeto é organizada da seguinte forma:
 └── tsconfig.json
 ```
 
-## **Notas**
+<h2><strong>Notas</strong></h2>
 - Tipagens estáticas foram implementadas utilizando **Type Annotation**, **Type Aliases** e **Union Types**.
 - Para garantir a qualidade do código, foram utilizados testes automatizados e linting com **ESLint**.
 - Desafios enfrentados incluíram manipulação de arrays com objetos complexos e validação de entradas.
 
-## **Contato**
+<h2><strong>Contato</strong></h2>
 - **Autor**: Willian Gonçalves
 - [**LinkedIn**](https://www.linkedin.com/in/williandpg/)
 - [**GitHub**](https://github.com/williandpg)
 - [**Email**](mailto:goncalves.wdp@outlook.com)
 
-## **Créditos**
+<h2><strong>Créditos</strong></h2>
 Este exercício foi desenvolvido como parte do curso de Desenvolvimento Full-Stack da Trybe.
 
 <details>
