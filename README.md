@@ -1,7 +1,9 @@
 # **Trybe Crafts**
 
 ## **Descrição**
-Nesse exercício, desenvolvemos uma parte do sistema da empresa fictícia Trybe Crafts, que atua no mercado de produtos personalizados. O objetivo foi criar funções para aumentar as vendas de seu e-commerce, aplicando tipagens estáticas para prevenir bugs e facilitar a manutenção futura. O exercício foi dividido em 5 etapas, cada uma com sua função específica e tipagens bem definidas.
+<p align="justify">
+  Nesse exercício, desenvolvemos uma parte do sistema da empresa fictícia Trybe Crafts, que atua no mercado de produtos personalizados. O objetivo foi criar funções para aumentar as vendas de seu e-commerce, aplicando tipagens estáticas para prevenir bugs e facilitar a manutenção futura. O exercício foi dividido em 5 etapas, cada uma com sua função específica e tipagens bem definidas.
+</p>
 
 ## **Tecnologias Utilizadas**
 - [**TypeScript**](https://www.typescriptlang.org/): Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.
@@ -52,12 +54,14 @@ A estrutura do projeto é organizada da seguinte forma:
 Este exercício foi desenvolvido como parte do curso de Desenvolvimento Full-Stack da Trybe.
 
 <details>
-  <summary>**🇺🇸 English Version**</summary>
+  <summary>🇺🇸 English Version</summary>
 
 # **Trybe Crafts**
 
 ## **Description**
-In this exercise, we developed part of the system for the fictitious company Trybe Crafts, which operates in the personalized products market. The goal was to create functions to increase e-commerce sales, applying static typing to prevent bugs and facilitate future maintenance. The exercise was divided into 5 stages, each with its specific function and well-defined typings.
+<p align="justify">
+  In this exercise, we developed part of the system for the fictitious company Trybe Crafts, which operates in the personalized products market. The goal was to create functions to increase e-commerce sales, applying static typing to prevent bugs and facilitate future maintenance. The exercise was divided into 5 stages, each with its specific function and well-defined typings.
+</p>
 
 ## **Technologies Used**
 - [**TypeScript**](https://www.typescriptlang.org/): Adds static typing to the code, preventing errors and ensuring greater security in the development of functions.
