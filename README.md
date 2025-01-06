@@ -8,7 +8,7 @@
 <h2><strong>Tecnologias Utilizadas</strong></h2>
 <ul>
   <li>
-    <a href='https://www.typescriptlang.org/'><strong>TypeScript: </strong>
+    <strong>TypeScript: </strong>
     <p align="justify">Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.
     </p>  
   </li>
