@@ -13,7 +13,7 @@
 </ul>
 
 <h2><strong>Estrutura do Projeto</strong></h2>
-A estrutura do projeto é organizada da seguinte forma:
+<p align="justify">A estrutura do projeto é organizada da seguinte forma:</p>
 
 ```plaintext
 /
@@ -42,18 +42,21 @@ A estrutura do projeto é organizada da seguinte forma:
 ```
 
 <h2><strong>Notas</strong></h2>
-- Tipagens estáticas foram implementadas utilizando **Type Annotation**, **Type Aliases** e **Union Types**.
-- Para garantir a qualidade do código, foram utilizados testes automatizados e linting com **ESLint**.
-- Desafios enfrentados incluíram manipulação de arrays com objetos complexos e validação de entradas.
+<ul>
+  <li align="justify">Tipagens estáticas foram implementadas utilizando <strong>Type Annotation</strong>, <strong>Type Aliases</strong> e <strong>Union Types</strong>.</li>
+  <li align="justify">Para garantir a qualidade do código, foram utilizados testes automatizados e linting com <strong>ESLint</strong>.</li>
+  <li align="justify">Desafios enfrentados incluíram manipulação de arrays com objetos complexos e validação de entradas.</li>
+</ul>
 
 <h2><strong>Contato</strong></h2>
-- **Autor**: Willian Gonçalves
-- [**LinkedIn**](https://www.linkedin.com/in/williandpg/)
-- [**GitHub**](https://github.com/williandpg)
-- [**Email**](mailto:goncalves.wdp@outlook.com)
+<ul>
+  <li><strong>Autor: </strong>Willian Gonçalves</li>
+  <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
+  <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
+  <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
 
 <h2><strong>Créditos</strong></h2>
-Este exercício foi desenvolvido como parte do curso de Desenvolvimento Full-Stack da Trybe.
+<p align="justify">Este exercício foi desenvolvido como parte do curso de Desenvolvimento Full-Stack da Trybe.</p>
 
 <details>
   <summary>🇺🇸 English Version</summary>
