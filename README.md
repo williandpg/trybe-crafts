@@ -60,59 +60,63 @@
 
 <details>
   <summary>🇺🇸 English Version</summary>
+  <h1><strong>Trybe Crafts</strong></h1>
 
-# **Trybe Crafts**
+  <h2><strong>Description</strong></h2>
+  <p align="justify">
+    In this exercise, we developed part of the system for the fictitious company Trybe Crafts, which operates in the personalized products market. The goal was to create functions to increase e-commerce sales, applying static typing to prevent bugs and facilitate future maintenance. The exercise was divided into 5 stages, each with its specific function and well-defined typings.
+  </p>
 
-## **Description**
-<p align="justify">
-  In this exercise, we developed part of the system for the fictitious company Trybe Crafts, which operates in the personalized products market. The goal was to create functions to increase e-commerce sales, applying static typing to prevent bugs and facilitate future maintenance. The exercise was divided into 5 stages, each with its specific function and well-defined typings.
-</p>
+  <h2><strong>Technologies Used</strong></h2>
+  <ul>
+    <li align="justify"><strong>TypeScript: </strong>Adds static typing to the code, preventing errors and ensuring greater security in the development of functions.</li>
+    <li align="justify"><strong>Node.js: </strong>Environment to run project scripts and tests on the backend.</li>
+    <li align="justify"><strong>ESLint: </strong>Analyzes code to maintain quality and prevent formatting issues.</li>
+  </ul>
 
-## **Technologies Used**
-- [**TypeScript**](https://www.typescriptlang.org/): Adds static typing to the code, preventing errors and ensuring greater security in the development of functions.
-- [**Node.js**](https://nodejs.org/): Environment to run project scripts and tests on the backend.
-- [**ESLint**](https://eslint.org/): Analyzes code to maintain quality and prevent formatting issues.
+  <h2><strong>Project Structure</strong></h2>
+  <p align="justify">The project structure is organized as follows:</p>
 
-## **Project Structure**
-The project structure is organized as follows:
+  ```plaintext
+  /
+  ├── src/
+  │    ├── 01-insert.ts
+  │    ├── 02-insertProducts.ts
+  │    ├── 03-findById.ts
+  │    ├── 04-calculateTotalPrice.ts
+  │    ├── 05-orderRequest.ts
+  ├── tests/
+  │    ├── assets/
+  │    │   ├── sequencer.js
+  │    ├── 01-insert.test.ts
+  │    ├── 02-insertProducts.test.ts
+  │    ├── 03-findById.test.ts
+  │    ├── 04-calculateTotalPrice.test.ts
+  │    ├── 05-orderRequest.test.ts
+  ├── .eslintignore
+  ├── .eslintrc.json
+  ├── .gitignore
+  ├── README.md
+  ├── jest.config.js
+  ├── package-lock.json
+  ├── package.json
+  └── tsconfig.json
+  ```
 
-```plaintext
-/
-├── src/
-│    ├── 01-insert.ts
-│    ├── 02-insertProducts.ts
-│    ├── 03-findById.ts
-│    ├── 04-calculateTotalPrice.ts
-│    ├── 05-orderRequest.ts
-├── tests/
-│    ├── assets/
-│    │   ├── sequencer.js
-│    ├── 01-insert.test.ts
-│    ├── 02-insertProducts.test.ts
-│    ├── 03-findById.test.ts
-│    ├── 04-calculateTotalPrice.test.ts
-│    ├── 05-orderRequest.test.ts
-├── .eslintignore
-├── .eslintrc.json
-├── .gitignore
-├── README.md
-├── jest.config.js
-├── package-lock.json
-├── package.json
-└── tsconfig.json
-```
+  <h2><strong>Notes</strong></h2>
+  <ul>
+    <li align="justify">Static typings were implemented using <strong>Type Annotation</strong>, <strong>Type Aliases</strong> and <strong>Union Types</strong>.</li>
+    <li align="justify">To ensure code quality, automated tests and linting with <strong>ESLint</strong> were used.</li>
+    <li align="justify">Challenges faced included handling arrays with complex objects and input validation.</li>
+  </ul>
 
-## **Notes**
-- Static typings were implemented using **Type Annotation**, **Type Aliases**, and **Union Types**.
-- To ensure code quality, automated tests and linting with **ESLint** were used.
-- Challenges faced included handling arrays with complex objects and input validation.
+  <h2><strong>Contact</strong></h2>
+  <ul>
+    <li><strong>Author: </strong>Willian Gonçalves</li>
+    <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
+    <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
+    <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
 
-## **Contact**
-- **Author**: Willian Gonçalves
-- [**LinkedIn**](https://www.linkedin.com/in/williandpg/)
-- [**GitHub**](https://github.com/williandpg)
-- [**Email**](mailto:goncalves.wdp@outlook.com)
-
-## **Credits**
-This exercise was developed as part of Trybe's Full-Stack Development course.
+  <h2><strong>Credits</strong></h2>
+  <p align="justify">This exercise was developed as part of Trybe's Full-Stack Development course.</p>
 </details>
