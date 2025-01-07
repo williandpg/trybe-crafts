@@ -54,6 +54,7 @@
   <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
   <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
   <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
+</ul>
 
 <h2><strong>Créditos</strong></h2>
 <p align="justify">Este exercício foi desenvolvido como parte do curso de Desenvolvimento Full-Stack da Trybe.</p>
@@ -116,6 +117,7 @@
     <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
     <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
     <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
+  </ul>
 
   <h2><strong>Credits</strong></h2>
   <p align="justify">This exercise was developed as part of Trybe's Full-Stack Development course.</p>
