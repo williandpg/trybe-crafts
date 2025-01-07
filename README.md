@@ -7,9 +7,9 @@
 
 <h2><strong>Tecnologias Utilizadas</strong></h2>
 <ul>
-  <li align="justify"><a href="https://www.typescriptlang.org/"><strong>TypeScript: </strong></a>Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.</li>
-  <li align="justify"><strong>Node.js: </strong>Ambiente para executar scripts e testes do projeto no backend.</li>
-  <li align="justify"><strong>ESLint: </strong>Analisa o código para manter a qualidade e prevenir problemas de formatação.</li>
+  <li align="justify"><a href="https://www.typescriptlang.org/"><strong>TypeScript</strong></a>: Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.</li>
+  <li align="justify"><a href="https://nodejs.org/"><strong>Node.js</strong></a>: Ambiente para executar scripts e testes do projeto no backend.</li>
+  <li align="justify"><a href="https://eslint.org/"><strong>ESLint</strong></a>: Analisa o código para manter a qualidade e prevenir problemas de formatação.</li>
 </ul>
 
 <h2><strong>Estrutura do Projeto</strong></h2>
@@ -50,9 +50,8 @@
 
 <h2><strong>Contato</strong></h2>
 <ul>
-  <li><strong>Autor: </strong>Willian Gonçalves</li>
+  <li><strong>Autor</strong>: Willian Gonçalves</li>
   <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
-  <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
   <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
 </ul>
 
@@ -70,9 +69,9 @@
 
   <h2><strong>Technologies Used</strong></h2>
   <ul>
-    <li align="justify"><strong>TypeScript: </strong>Adds static typing to the code, preventing errors and ensuring greater security in the development of functions.</li>
-    <li align="justify"><strong>Node.js: </strong>Environment to run project scripts and tests on the backend.</li>
-    <li align="justify"><strong>ESLint: </strong>Analyzes code to maintain quality and prevent formatting issues.</li>
+    <li align="justify"><a href="https://www.typescriptlang.org/"><strong>TypeScript</strong></a>: Adds static typing to the code, preventing errors and ensuring greater security in the development of functions.</li>
+    <li align="justify"><a href="https://nodejs.org/"><strong>Node.js</strong></a>: Environment to run project scripts and tests on the backend.</li>
+    <li align="justify"><a href="https://eslint.org/"><strong>ESLint</strong></a>: Analyzes code to maintain quality and prevent formatting issues.</li>
   </ul>
 
   <h2><strong>Project Structure</strong></h2>
@@ -113,9 +112,8 @@
 
   <h2><strong>Contact</strong></h2>
   <ul>
-    <li><strong>Author: </strong>Willian Gonçalves</li>
+    <li><strong>Author</strong>: Willian Gonçalves</li>
     <li><a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></li>
-    <li><a href="https://github.com/williandpg/" target="_blank"><strong>GitHub</strong></li>
     <li><a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></li>
   </ul>
 
