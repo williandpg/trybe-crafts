@@ -7,7 +7,7 @@
 
 <h2><strong>Tecnologias Utilizadas</strong></h2>
 <ul>
-  <li align="justify"><strong>TypeScript: </strong>Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.</li>
+  <li align="justify"><a href="https://www.typescriptlang.org/"><strong>TypeScript: </strong></a>Adiciona tipagem estática ao código, prevenindo erros e garantindo maior segurança no desenvolvimento das funções.</li>
   <li align="justify"><strong>Node.js: </strong>Ambiente para executar scripts e testes do projeto no backend.</li>
   <li align="justify"><strong>ESLint: </strong>Analisa o código para manter a qualidade e prevenir problemas de formatação.</li>
 </ul>
